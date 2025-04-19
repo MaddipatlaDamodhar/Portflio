@@ -1,4 +1,5 @@
-# Portflio
+![JavaFullStackCertification](https://github.com/user-attachments/assets/267ba11c-6acf-43d8-9970-49d3798d885b)# Portflio
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -138,7 +139,7 @@
     <h2 class="heading"><span>My Certification</span></h2> 
         <div class="Certification">
             <h3>Java Full Stack Certification </h3>
-            <img src="C:\Users\LENOVO\Pictures\Screenshots\JavaFullStackCertification.jpg" alt="" width="900px" height="700px">
+            <img src="JavaFullStackCertification.jpg" alt="" width="900px" height="700px">
         </div>
  </section>
     <!--Contact Section Design-->
