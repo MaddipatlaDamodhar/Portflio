@@ -1,4 +1,4 @@
-# Portflie
+# Portflio
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,10 +23,8 @@
         <a href="#Projects" >Projects</a>
         <a href="#Certification" >Certification</a>
         <a href="#contact" >Contact</a>
-    
     </nav>
  </header>
-
     <!--Home Section Design-->
     <section class="home" id="home">
         <div class="home-content">
