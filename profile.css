@@ -9,7 +9,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 :root {
-    background-color: rgb(252, 120, 120);
+    background-color:rgb(23,230,125)
     --text-color:rgb(7, 244, 125);
     --main-color:rgb(180, 6, 254);
    }
@@ -139,7 +139,7 @@ section {
     justify-content: center;
     align-items: center;
     gap: 1rem;
-    background:rgb(252, 120, 120);
+    
 }
 .about-img img {
     width: 30vw;
