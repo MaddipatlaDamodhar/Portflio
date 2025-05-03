@@ -36,10 +36,9 @@
              <div class="social-media">
                 <a href="https://github.com/MaddipatlaDamodhar"><i class="fa-brands fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/m-damodhar-67996628b"><i class="fa-brands fa-linkedin"></i></a>
-                <a href="damodhar_chowdary"><i class="fa-brands fa-instagram"></i></a>
                 <a href="https://x.com/home/MDamodhar4"><i class="fa-brands fa-twitter"></i></a>
             </div>
-            <a href="C:\Users\LENOVO\Downloads\DAMODHAR RESUME.docx" class="btn">Download CV</a>
+            <a href="DAMODHAR RESUME.docx" class="btn">Download CV</a>
         </div>
 
         <div class="home-img">
