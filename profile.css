@@ -139,7 +139,7 @@ section {
     justify-content: center;
     align-items: center;
     gap: 1rem;
-    
+     background:rgb(252, 120, 120);
 }
 .about-img img {
     width: 30vw;
