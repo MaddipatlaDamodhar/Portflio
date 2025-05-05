@@ -201,6 +201,7 @@ section {
     font-size: 1.4rem;
     margin: 1rem 0 2rem;
 }
+
 .skills{
     margin: 15px 10px 15px 10px;
     display: flex;
@@ -231,6 +232,7 @@ section {
     background-color: #00bfff;
     border-radius: 20px;
   }
+ 
   .job-experience {
     display: flex;
     align-items: flex-start;
