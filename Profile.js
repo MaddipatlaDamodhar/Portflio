@@ -2,12 +2,6 @@
 let menuIcon = document.querySelector('#menu-icon');
 let navbar = document.querySelector('.navbar');
 
-
-    // Close Navbar When Scrolling
-    menuIcon.classList.remove('fa-times');
-    navbar.classList.remove('active');
-};
-
 // Form Validation
 document.querySelector('form').addEventListener('submit', function (e) {
     const name = this.querySelector('input[placeholder="Full Name:"]').value.trim();
