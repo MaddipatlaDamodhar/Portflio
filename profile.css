@@ -226,7 +226,7 @@ section {
     overflow: hidden;
   }
   .progress {
-    height: 20px;
+    height: 10px;
     background-color: #00bfff;
     border-radius: 20px;
   }
